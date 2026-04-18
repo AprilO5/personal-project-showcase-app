@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Cupcake logo</title>
+  <path fill="#9ed8ff" d="M31 63c-8 0-15 6-15 14 0 11 9 20 20 20h56c11 0 20-9 20-20 0-8-7-14-15-14H31z"/>
+  <path fill="#ffd9e8" d="M32 58c0-18 14-32 32-32s32 14 32 32H32z"/>
+  <path fill="#fff3f8" d="M43 52c0-12 9-21 21-21s21 9 21 21H43z"/>
+  <circle cx="64" cy="22" r="6" fill="#ff8caf"/>
+  <rect x="58" y="16" width="12" height="10" rx="4" fill="#ffb6cc"/>
+</svg>
