@@ -1,0 +1,50 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "Goodies Bake Shop",
+      "description": "Sweet cupcakes and bakery treats for every celebration.",
+      "location": "12 Frosting Lane, Brooklyn, NY",
+      "phone": "(555) 321-7788",
+      "hours": "Mon-Sat 8am-6pm"
+    }
+  ],
+  "cupcakes": [
+    {
+      "id": 1,
+      "name": "Pink Velvet Cupcake",
+      "description": "A soft vanilla cupcake with blush buttercream and a tiny swirl of raspberry icing.",
+      "flavor": "Vanilla berry",
+      "price": 4.5,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Pink Sugar Cookie",
+      "description": "A soft pink sugar cookie with a buttery center and sparkling sugar on top.",
+      "flavor": "Pink sugar",
+      "price": 3.75,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Cherry Sprinkle Cupcake",
+      "description": "Cherry cupcake with whipped frosting and a sweet sprinkle finish.",
+      "flavor": "Cherry",
+      "price": 5,
+      "inStock": false,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Cloud Cream Cupcake",
+      "description": "A fluffy vanilla cupcake with smooth cream topping and pastel sugar.",
+      "flavor": "Cream vanilla",
+      "price": 5.25,
+      "inStock": true,
+      "featured": true
+    }
+  ]
+}
